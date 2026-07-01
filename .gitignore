@@ -1,4 +1,6 @@
 __pycache__/
 *.pyc
 output/
+pse_output/
+pse_reports/
 *.egg-info/
